@@ -8,7 +8,7 @@ namespace SqlLinq
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("-----Resultado------");
+            Console.WriteLine("-----Resultados------");
             IEnumerable<Student> studentQuery = from student in Students
                                                 where student.Scores[0] > 90
                                                 select student;
