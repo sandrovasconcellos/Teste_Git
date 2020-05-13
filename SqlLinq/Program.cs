@@ -6,6 +6,7 @@ namespace SqlLinq
 {
     public class Program
     {
+        //alteração 02 branch01
         public static void Main(string[] args)
         {
             Console.WriteLine("-----Resultados------");
