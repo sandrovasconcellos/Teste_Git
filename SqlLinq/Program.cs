@@ -9,6 +9,7 @@ namespace SqlLinq
         //alteração 02 branch01
         //alteração 03 branch01 pc
         //alteração 04 branch02 note
+        //alteração 05 branch03 note
         public static void Main(string[] args)
         {
             Console.WriteLine("-----Resultados------");
